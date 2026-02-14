@@ -2,7 +2,7 @@
 
 Este es un proyecto que utiliza el programa Python y la librería Pandas para limpiar y traducir un conjunto de datos de 4 archivos .csv. 
 Posteriormente, utilizar este conjunto para un análisis en Power Bi de ventas brutas y comportamiento del sitio web. Todo el contenido de
-este código se encuentra ordenado y dividido por cada archivo .csv con el que se trabaja.
+este código se encuentra ordenado y dividido por cada archivo .csv con el que se trabaja. Además, este código es ampliable y se puede utilizar para la automatización.
 
 # Conjunto de datos
 
